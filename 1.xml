@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+<book_data>
+<b_title>Maths Book</b_title>
+<author>Author1</author>
+<publisher>Publisher1</publisher>
+<edition>Edition1</edition>
+<year_of_Publish>2001</year_of_Publish>
+<price>500</price>
+</book_data>
+<book_data>
+<b_title>Science Book</b_title>
+<author>Author2</author>
+<publisher>Publisher2</publisher>
+<edition>Edition2</edition>
+<year_of_Publish>2002</year_of_Publish>
+<price>600</price>
+</book_data>
+<book_data>
+<b_title>Drawing book</b_title>
+<author>Author3</author>
+<publisher>Publisher3</publisher>
+<edition>Edition3</edition>
+<year_of_Publish>2008</year_of_Publish>
+<price>700</price>
+</book_data>
+</book>
